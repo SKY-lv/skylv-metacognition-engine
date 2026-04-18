@@ -1,13 +1,23 @@
-# skylv-metacognition-engine
+# Metacognition Engine
 
-metacognition engine - OpenClaw Skill
+> metacognition engine - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-metacognition-engine
 ```
 
-## Description
-An OpenClaw skill for metacognition engine.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-metacognition-engine
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv
